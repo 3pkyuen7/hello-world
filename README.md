@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+hello i'm 3pkyuen7!
