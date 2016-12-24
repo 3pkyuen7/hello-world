@@ -1,2 +1,3 @@
 # hello-world
-hello i'm 3pkyuen7!
+this is the ans of programming pastpaper 14/15
+made by pkyuen
