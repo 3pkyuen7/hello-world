@@ -1,6 +1,10 @@
 public class QA2{
 	public static void main(String[]args){
 		int x = 1, y = 2, z = 3;
+		ai(x,y,z);
+		aii(x,y,z);
+		aiii(x,y,z);
+		aiv(x,y,z);
 	}
 	public static void ai(int x, int y, int z){
 		System.out.print("Answer of \"" + x + y + z);
